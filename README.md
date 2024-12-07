@@ -9,11 +9,9 @@ Key Components Designed
 ## Gates:
 1. NOT
 2. NAND 2/3/4/6/7 Inputs
-3. OR
-4. NOR 2/3/4/5/7 Inputs
-5. XOR
-6. XNOR
-
+3. NOR 2/3/4/5/7 Inputs
+4. XOR
+5. XNOR
 
 ## Flip-Flops:
 1. D Latch 
