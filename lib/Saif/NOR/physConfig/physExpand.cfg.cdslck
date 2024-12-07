@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      work
+HostName                       work-eda
+ProcessIdentifier              3794
+ProcessCreationTime_UTC        1709809753
+ProcessCreationTime_Readable   Thu Mar  7 19:09:13 2024 CST
+AppIdentifier                  /opt/IC617/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/work/Saif/NOR/physConfig/physExpand.cfg
+TimeEditLocked                 Thu Mar  7 19:11:34 2024 CST
