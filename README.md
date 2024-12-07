@@ -2,23 +2,26 @@
  Designed and simulated a Digital Clock, 4 Floor Elevator Controller, Taxi Fare Meter, and Quiz Buzzer System. Built digital  circuits from scratch using MOSFETs in Cadence. 
 
 ##Gates:
-NOT
 
-NAND 2/3/4/6/7 Inputs
+1. NOT
 
-OR
+2. NAND 2/3/4/6/7 Inputs
 
-NOR 2/3/4/5/7 Inputs
+3. OR
 
-XOR
+4. NOR 2/3/4/5/7 Inputs
 
-XNOR
+5. XOR
+
+6. XNOR
 
 
 ##Flip-Flops:
-D Latch
-D FF Neg Edge
-JK FF Neg Edge
+
+1. D Latch
+  
+2. D FF Neg Edge
+3. JK FF Neg Edge
 
 ##Counters:
 Counter 2/3/4 bit
