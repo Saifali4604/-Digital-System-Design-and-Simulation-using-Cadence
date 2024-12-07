@@ -1,5 +1,10 @@
-# -Digital-System-Design-and-Simulation-using-Cadence
+# Digital_System_Design_Simulation-Cadence
  Designed and simulated a Digital Clock, 4 Floor Elevator Controller, Taxi Fare Meter, and Quiz Buzzer System. Built digital  circuits from scratch using MOSFETs in Cadence. 
+
+ Designed and simulated various digital systems and circuits using Cadence tools, leveraging 90nm technology. Built all components and systems independently from scratch using MOSFET-based design. The library includes a wide range of gates, flip-flops, counters, and other digital components, which were used to implement several functional projects.
+
+Key Components Designed
+
 
 ## Gates:
 1. NOT
@@ -38,10 +43,10 @@
 5. BCD to 7 Segment Decoder
 
 ## Main Project
-1. Digital Clock 24hr Format
-2. 4 Floor Elevator
-3. Quiz Buzzer to display who pressed the 1st
-4. Taxi Meter to calculate the price based on the distance
+1. Digital Clock (24-hour Format): A complete digital clock designed with MOSFET-based circuits, including counters and decoders.
+2. 4-Floor Elevator Controller: Simulated the logic to control an elevator across four floors with sequential circuit design.
+3. Quiz Buzzer System: Designed a system to identify and display the first participant to press the buzzer.
+4. Taxi Fare Meter: Developed a fare meter that calculates price based on simulated distance inputs.
 
 
 
