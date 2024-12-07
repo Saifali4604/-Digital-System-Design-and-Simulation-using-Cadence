@@ -22,26 +22,26 @@
 4. Mod 6 Counter
 5. Mod 10 Counter
 
-##Adders
-Full Adder
-Ripple Carry Adder
+## Adders
+1. Full Adder
+2. Ripple Carry Adder
 
-##MUX
-MUX 4:1 
-DMUX 1:4 
+## MUX
+1. MUX 4:1 
+2. DMUX 1:4 
 
-##Others
-Encoder 4:2 / 8:3 
-Comparator 2 bit
-FIFO 4 bit
-PIPO 4 bit
-BCD to 7 Segment Decoder
+## Others
+1. Encoder 4:2 / 8:3 
+2. Comparator 2 bit
+3. FIFO 4 bit
+4. PIPO 4 bit
+5. BCD to 7 Segment Decoder
 
-##Main Project
-Digital Clock 24hr Format
-4 Floor Elevator
-Quiz Buzzer to display who pressed the 1st
-Taxi Meter to calculate the price based on the distance
+## Main Project
+1. Digital Clock 24hr Format
+2. 4 Floor Elevator
+3. Quiz Buzzer to display who pressed the 1st
+4. Taxi Meter to calculate the price based on the distance
 
 
 
